@@ -10,4 +10,4 @@ Contact me : <a href="https://discord.com/users/692757513631825940">**SixZens**<
 > you can find my project in <a href="https://github.com/SixZensED/xova-s.scripts">xova's.scritps</a> i have a lot of script roblox's or exploit
 
 > [!WARNING]\
-> you can find my project in <a href="https://github.com/SixZensED/xova-s.scripts">xova's.scritps</a> i have a lot of script roblox's or exploit
+> if script bug please send to me problem <a href="https://discord.com/users/692757513631825940">**SixZens**</a>
