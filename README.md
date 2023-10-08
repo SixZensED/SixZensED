@@ -1,1 +1,1 @@
-### Hi, I'm SixZens 🇹🇭
+### Hi, I'm SixZens 🇹🇭 👨‍💻
