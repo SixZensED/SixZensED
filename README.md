@@ -1,1 +1,1 @@
-[https://github.com/SixZensED]Hi, I'm SixZens 🇹🇭 👨‍💻
+# Hi, I'm SixZens 🇹🇭 👨‍💻
