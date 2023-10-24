@@ -7,7 +7,7 @@
 
 ```lua
   Name = {"Kao","Nine"}
-  Skillset : Python, Go, Php, Node, Skript, Java
+  Skill = {"Lua","Html","Wordpress","CSS","C++","Java","Python"}
   Discord  : 873425208869015594
   Hobbies  : [
    Application Development,   Utility Development,
