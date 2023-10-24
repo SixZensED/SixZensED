@@ -2,7 +2,9 @@
 > • SixZens
 ```
 
-<img align="left" src="https://images-ext-1.discordapp.net/external/NcCRFlnWangHzChwvHAKlaqdybxCMzFgjfF9r0mcpbA/https/pfps.gg/assets/pfps/7908-kagome.gif" width="201"/>
+<div style="padding: 20px;">
+    <img align="left" src="https://images-ext-1.discordapp.net/external/NcCRFlnWangHzChwvHAKlaqdybxCMzFgjfF9r0mcpbA/https/pfps.gg/assets/pfps/7908-kagome.gif" width="200"/>
+</div>
 
 ```py
   Name : N..
