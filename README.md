@@ -1,5 +1,5 @@
-```bash
-> • SixZens
+```ini
+[*] SixZens
 ```
 
 ```lua
