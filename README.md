@@ -6,14 +6,9 @@
 
 
 ```lua
-  Name = {"Kao","Nine"}
-  Skill = {"Lua","Html","Wordpress","CSS","C++","Java","Python"}
-  Contact = {
-
-  ["DiscordId"] = 692757513631825940,
-
-  ["DiscordName"] = "sixzens",
-  }
+  Name = {"Kao" , "Nine"}
+  Skill = {"Lua", "Html", "Wordpress", "CSS", "C++", "Java", "Python"}
+  Contact = {["DiscordId"] = 692757513631825940, ["DiscordName"] = "sixzens",}
 
   Hobbies = {
 
