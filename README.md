@@ -8,12 +8,12 @@
 ```lua
   Name = {"Kao","Nine"}
   Skill = {"Lua","Html","Wordpress","CSS","C++","Java","Python"}
-  Discord  : 873425208869015594
-  Hobbies  : [
-   Application Development,   Utility Development,
-   Command-Line Applications,
-   Web(Exploitation, Crawling, ExploitFrameworks)
-  ],
+
+  Hobbies = {
+   ["UI Library Design"],
+   ["Script Hub"],
+  }
+
   Projects : [ 
     disguild, iauth, fedsearch
   ]
