@@ -2,9 +2,9 @@
 [*] SixZens
 ```
 
-```lua
-  Name = {"Kao" , "Nine"}
-  Skill = {"Lua", "Html", "Wordpress", "CSS", "C++", "Java", "Python", "C"}
-  Contact = {["DiscordId"] = 692757513631825940, ["DiscordName"] = "sixzens"}
-  Hobbies = {"UI Library Design","Script Hub"}
+```init
+  Name:/ kao (nine)
+  Skills:/ Luau / Lua / Html / Wordpress / NextJs / CSS / C++ / C# / C / Python / Kotlin
+  Discordname:/ sixzens
+  [*] Front-end / UI-UX / Application
 ```
