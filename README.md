@@ -18,4 +18,5 @@ local Name = "kao (nine)"
 [<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=FFFFFF" title="CSS" height="25" />](https://www.w3schools.com/css/)
 [<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=FFFFFF" title="C++" height="25" />](https://www.w3schools.com/cpp/default.asp)
 [<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=FFFFFF" title="C" height="25" />](https://www.w3schools.com/c/index.php)
+[<img src="https://img.shields.io/badge/Python-3776AB?logo=c&logoColor=FFFFFF" title="C" height="25" />](https://www.python.org/)
 [<img src="https://img.shields.io/badge/Roblox-Studio-00A2FF?&logo=robloxstudio?" title="RobloxStudio" height="25" />](https://create.roblox.com/landing)
