@@ -11,4 +11,4 @@ local Name = "kao (nine)"
 ```ini
 [*] Front-end / UI-UX / Application
 ```
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" title="JavaScript" height="25" />]
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" title="JavaScript" height="25" />
