@@ -16,6 +16,7 @@ local Name = "kao (nine)"
 [<img src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=FFFFFF" title="Wordpress" height="25" />](https://wordpress.com/)
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" title="Next.js" height="25" />](https://nextjs.org/)
 [<img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=FFFFFF" title="Next.js" height="25" />](https://nuxt.com/)
+[<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=FFFFFF" title="Next.js" height="25" />](https://vuejs.org/)
 [<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=FFFFFF" title="CSS" height="25" />](https://www.w3schools.com/css/)
 [<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=FFFFFF" title="C++" height="25" />](https://www.w3schools.com/cpp/default.asp)
 [<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=FFFFFF" title="C" height="25" />](https://www.w3schools.com/c/index.php)
