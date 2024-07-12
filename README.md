@@ -11,4 +11,4 @@ local Name = "kao (nine)"
 ```ini
 [*] Front-end / UI-UX / Application
 ```
-<img src="https://img.shields.io/badge/Lua-2C2D72?logo=Lua" title="Lua" height="25" />
+[<img src="https://img.shields.io/badge/Lua-2C2D72?logo=Lua" title="Lua" height="25" />](https://www.roblox.com/games/3233893879/REVAMP-Bad-Business)
