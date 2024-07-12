@@ -12,4 +12,4 @@ local Name = "kao (nine)"
 [*] Front-end / UI-UX / Application
 ```
 **Gitbook** **Links** 
-:--- | --- 
+:--- | --- | :--- | :--- | :--- 
