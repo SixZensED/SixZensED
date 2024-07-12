@@ -13,4 +13,4 @@ local Name = "kao (nine)"
 ```
 [<img src="https://img.shields.io/badge/Lua-2C2D72?logo=Lua" title="Lua" height="25" />](https://www.lua.org/)
 [<img src="https://img.shields.io/badge/Roblox-Studio-00A2FF?logo=robloxstudio?" title="RobloxStudio" height="25" />](https://create.roblox.com/landing)
-[<img src="https://img.shields.io/badge/Html-E34F26?logo=html?" title="Html" height="25" />](https://www.w3schools.com/html/)
+[<img src="https://img.shields.io/badge/Html5-E34F26?logo=html?" title="Html5" height="25" />](https://www.w3schools.com/html/)
