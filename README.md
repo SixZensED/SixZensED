@@ -11,5 +11,7 @@ local Name = "kao (nine)"
 ```ini
 [*] Front-end / UI-UX / Application
 ```
-**Gitbook** **Links** 
-:--- | --- |
+| Gitbooks | Link |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
