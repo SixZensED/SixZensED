@@ -1,3 +1,3 @@
 # 👋 Tanapat Su-angka
 
-[//]: # (![Metrics embed]&#40;/metrics.base.svg&#41;)
+[//]: # (![Metrics embed]&#40;/metrics.classic.svg&#41;)
