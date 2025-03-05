@@ -5,7 +5,7 @@
 ```lua
 local Name = "kao (nine)"
 - Advance > Luau / Lua / HTML5 / CSS / Wordpress 
-- Intermediate > JavaScript / Next.js / Nuxt.js / Vue / Python
+- Intermediate > PHP / JavaScript / Next.js / Nuxt.js / Vue / Python
 - Basic > C++ / C# / C
 - Discordname:/ sixzens
 ```
