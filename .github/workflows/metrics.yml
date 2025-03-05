@@ -1,4 +1,4 @@
-name: Generate Metrics
+name: Metrics embed
 on:
   schedule:
     - cron: "0 0 * * *"
