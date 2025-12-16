@@ -3,4 +3,4 @@
 
 | Work Contributions | Description |
 | ------------------ | ------------|
-| Smart-Sign         |
+| Smart-Sign         | AI-Powered Sign Language Translation System for a Barrier-Free Society |
