@@ -3,5 +3,5 @@
 ------------------------------------
 | Work Contributions | Description | Source |
 | ------------------ | ------------| ------ |
-| Smart-Sign         | AI-Powered Sign Language Translation System for a Barrier-Free Society |
+| Smart-Sign         | AI-Powered Sign Language Translation System for a Barrier-Free Society | [Source](https://www.google.com) |
 | RealAya            | Website About Shop Game Online & Design UX/UI & Frontend | [Source](https://realaya.xyz) |
