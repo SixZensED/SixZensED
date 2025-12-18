@@ -8,5 +8,3 @@ will interact (UX/UI), building the visual front part, and creating the
 strong back-end system. I love using the newest technology to make
 smart solutions that make work easier, save time, and help
 companies run much smoother.
-
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxjaWljeGRoaGQ1Zm5haWowb3Rpb2piNWRzZXR5MnVueWtwMGU1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HKzJJHmczQdWUZlQ5a/giphy.gif
