@@ -3,6 +3,6 @@
 ------------------------------------
 # About Me
 <div align="center">
-  <kbd><img src="https://github.com/user-attachments/assets/d7ba22e0-7408-4420-8d09-80394d0d7185" alt="Card Left" width="420" /></kbd>
+  <kbd><img src="https://github.com/user-attachments/assets/a3e8b34f-1b4b-45d1-b02c-fecae80ce084" alt="Card Left" width="420" /></kbd>
   <kbd><img src="https://github.com/user-attachments/assets/d7ba22e0-7408-4420-8d09-80394d0d7185" alt="Card Right" width="420" /></kbd>
 </div>
