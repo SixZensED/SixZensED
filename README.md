@@ -2,6 +2,13 @@
 
 ------------------------------------
 # About Me
-<kbd>
-<img width="880" height="490" alt="Competition" src="https://github.com/user-attachments/assets/d7ba22e0-7408-4420-8d09-80394d0d7185" />
-</kbd>
+<table>
+  <tr>
+    <td>
+      <img src="https://metrics.lecoq.io/SixZensED?template=classic&base.header=0&calendar=1" alt="Metrics 1" />
+    </td>
+    <td>
+      <img src="https://metrics.lecoq.io/SixZensED?template=classic&base.header=0&achievements=1" alt="Metrics 2" />
+    </td>
+  </tr>
+</table>
