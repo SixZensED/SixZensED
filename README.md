@@ -1,4 +1,4 @@
-<img width="880" height="490" alt="Project" src="https://github.com/user-attachments/assets/b9673d3f-fa17-4c15-bc84-a469c9ecb24e" /><img width="1400" height="350" alt="Frame 1" src="https://github.com/user-attachments/assets/df299572-3623-49f8-9cac-3c1b11fae640" />
+<img width="1400" height="350" alt="Frame 1" src="https://github.com/user-attachments/assets/df299572-3623-49f8-9cac-3c1b11fae640" />
 
 ------------------------------------
 # About Me
