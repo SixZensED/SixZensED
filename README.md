@@ -27,16 +27,3 @@
     </kbd>
   </a>
 </div>
-
-<br />
-
-<h2 id="competition">Competition</h2>
-
-- The 14th Asia Undergraduate Conference on Computing : AUCC 2026
-- Startup Thailand League 2026
-
-<br />
-
-<h2 id="projects">Projects</h2>
-
-- SmartSign
